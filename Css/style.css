@@ -79,3 +79,30 @@
    
     float: right;
   }
+
+
+  /* Urunler | Kitap */
+
+  article>ol>center>li>p{
+    font-size: 20px;
+  }
+  
+  article>ol>center>li>img{
+    border-style: inset;
+    
+  }
+  
+  article>ol>center>li>.fiyat{
+    font-weight:bold;
+    font-size: 22px;
+    padding: 1px  0px  30px  0px;
+  }
+  
+  article>ol>center>li>.fiyat>button{
+    color: aliceblue;
+    background-color: rgb(236, 32, 32);
+    font-weight:bold;
+    font-size: 20px;
+    padding: 5px;
+    margin-left: 22px;
+  }
