@@ -23,10 +23,11 @@
     background-color: rgb(214, 199, 198);
     height: 50px;
   }
+
   ul.menu >li{
     float: left;
-    
     }
+
     ul.menu >li >a {
       
       display: block;
@@ -35,15 +36,46 @@
       line-height: 50px;
       color: rgb(10, 10, 10);
     }
+
     ul.menu >li.bilgi {
       
       float: right;
-      
-      
     }
   
   nav> p.home{
     color: #2e2d33;
     text-align: center;
     font-size: 33px;
+  }
+
+  /* index Article| Resim */
+  article >.resim1{
+    float: left;
+    border: solid 10px yellow;
+    margin: 0px 100px 0px 150px ;
+    
+    
+  }
+  article >.metin{
+    font-size: 20px;
+    margin: 111px 0px 0px 0px ;
+    line-height: 12px;
+    color: rgb(146, 34, 34);
+    float: left;
+    
+  }
+  
+  article >.resim2{
+    float: right;
+    border: solid 10px yellow;
+    margin: 230px 150px 0px 0px ;
+    
+  }
+  article >.metin2{
+    font-size: 20px;
+    margin: 122px 122px 0px 0px ;
+    line-height: 12px;
+    color: rgb(10, 10, 10);
+   
+    float: right;
   }
