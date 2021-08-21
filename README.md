@@ -1,10 +1,14 @@
-# Kodluyoruz Css Ödev-1
-Online Kitap
+## Kitap Mağaza Tasarımı
+
+
+## ![Image](https://r.resimlink.com/QvqbJzUg.png)
+
+css bilgilerimle tasarlamaya çalıştığım kitap mağazası
 
 ---
 
 
-![Image](kitaplar/readme.jpg)
+![Image](kitaplar/proje.gif)
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğum Html Bölüm sonu Reposu. İçerisinde bir adet README dosyası, dört adet .html uzantısı ve bir adet .css uzantılı dosya barındırıyor.
 
@@ -13,7 +17,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın.
 
 ```
-https://github.com/Mucahid-Canbey/Kodluyoruz-Css-Odev-1.git
+https://github.com/Mucahid-Canbey/Css-Magaza-Odev-1.git
 ```
 
 ## Usage
